@@ -1,0 +1,160 @@
+*{
+    
+    background-color: #FFC700;
+    
+    
+    
+}
+.one{
+    padding:3%;
+    background-color:#240750;
+     
+    right: 100px;
+    left: 10px;
+}
+.one nav ul{
+    background-color: #240750;
+}
+.one nav{ 
+       text-align: right;   
+       margin-left: 20%; 
+       background-color: #240750;   
+}
+.one nav ul li{
+     list-style-type: none;
+     display: inline-block; 
+     background-color:  #240750;
+}
+.one nav ul li a{
+    text-decoration: none;
+    color: wheat;
+    font-size: 30px; 
+    background-color:  #240750;
+    margin: 10px 10px;
+    font-weight: bolder;
+}
+.one nav ul li a:hover{
+    color: green;
+}
+
+.two{
+    text-align:center;
+    margin-right: 50%;
+    background-color: #240750;
+    margin-bottom: 10%;
+    width:40%;
+    height:20%;
+    border-left: 10%;
+    margin-top: 50px;
+    
+    
+}
+.two section{
+    padding:30%;
+    background-color:#240750;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+
+}
+.two section h1,h2{
+    background-color:#240750;
+    font-size: xx-large;
+    font-family: cursive;
+}
+.two section h1 span{
+    font-size: 40px;
+    color:wheat;
+    background-color:#240750;
+}
+.two section h1 span:hover{
+    font-size: 50px;
+}
+.three{
+    width: 45%;
+    height: 60%;
+    position: absolute;
+    bottom: 0;
+    right: 70px;
+    
+       
+}
+.three img{
+    height: 100%;
+    position: absolute;
+    left: 10%;
+    bottom: 10%;  
+    top: -10%;
+    transition: bottom 1s,left 1s;
+}
+.three img:hover{
+    
+    height: 100%;
+    width: 70%;
+    
+}
+.three h1{
+    
+    position: absolute;
+    top:-30%;
+    bottom: 103;
+    left: 20px;
+    font-size: 60px;
+    color: #240750;
+    
+}
+.three h1:hover{
+    font-size: 65px;
+}
+.four{
+    
+    margin-top: 10px;
+
+}
+.four p{
+     font-size: 30px;
+     font-family: cursive;
+     font-weight: bold;
+     color:#240750;
+     text-align: justify;
+     margin-top: 5%;
+     margin-left: 9%;
+     margin-right: 50%;
+}
+.five  table{
+       margin-left: 60%;
+       margin-top: -20%;
+       border: 2px solid red;
+       font-size: 30px;
+       margin-right: 10%;
+       color: #240750;
+}
+.five  table td,th{
+    border: 2px solid red;
+}
+.six table{
+    margin-left: 20%;
+    margin-top: 5%;
+    border: 2px solid red;
+    font-size: 40px;
+    margin-right: 20%;  
+}
+.six table td,th{
+    border: 2px solid red;
+}
+.seven {
+     margin-top: 4%;
+     margin-left: 10%;
+     font-size: 30px;
+     color: red;
+     
+}
+.seven table tr td input{
+    font-size: 30px;
+}
+.seven table  tr td  .sub:hover{
+    background-color:red;
+}
+
+    
